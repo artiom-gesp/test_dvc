@@ -1,0 +1,4 @@
+outs:
+- md5: 42a51d05f65b971fd732a25644f1cbf3
+  size: 27
+  path: 1.txt
